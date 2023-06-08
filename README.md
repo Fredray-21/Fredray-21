@@ -30,8 +30,8 @@
 </div><br /><br />
 
 <div align="center" display="flex" flex-direction="row">
-  <img src="https://deploy-read-me-zlxn.vercel.app/api/top-langs?username=Fredray-21&show_icons=true&theme=dark&locale=en&layout=compact" alt="Fredray-21" />
-  <img src="https://deploy-read-me-zlxn.vercel.app/api?username=Fredray-21&show_icons=true&theme=dark&locale=en&hide=contribs" alt="Fredray-21" />
+  <img src="https://github-readme-stats-fredray-21.vercel.app/api/top-langs?username=Fredray-21&show_icons=true&theme=dark&locale=en&layout=compact" alt="Fredray-21" />
+  <img src="https://github-readme-stats-fredray-21.vercel.app/api?username=Fredray-21&show_icons=true&theme=dark&locale=en&hide=contribs" alt="Fredray-21" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fredray-21&theme=dark" alt="Fredray-21" />
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Fredray-21&label=Profile%20views&color=1e5700&style=flat" alt="Fredray-21" /> </p>
