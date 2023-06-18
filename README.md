@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Fredray21</h1>
-<h3 align="center">A passionate Fullstack Developer</h3>
-
 - 🔭 I’m currently working on [GAPM](https://github.com/IUT-Orsay-LP-PRISM/GAPM-website)
 
 - 🌱 I’m currently learning [REACT](https://reactjs.org/) and [NODEJS](https://nodejs.org/en/)
