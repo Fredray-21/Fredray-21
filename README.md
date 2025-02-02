@@ -24,4 +24,5 @@
 <div align="center" display="flex" flex-direction="row">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fredray-21&theme=dark" alt="Fredray-21" />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Fredray-21&label=Profile%20views&color=1e5700&style=flat" alt="Fredray-21" /> </p>
+<p align="center"> ![](https://komarev.com/ghpvc/?username=Fredray-21&color=ff69b4&style=for-the-badge) </p>
+
