@@ -21,7 +21,7 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/></a> 
 </div><br /><br />
 
-<div alignItems="center" display="flex" flex-direction="column" justifyContent="center">
+<div alignItems="center" display="flex" flexDirection="column" justifyContent="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fredray-21&theme=dark" alt="Fredray-21" />
   <img src="https://komarev.com/ghpvc/?username=Fredray-21&color=ff69b4&style=for-the-badge" alt="Fredray-21" />
 </div>
